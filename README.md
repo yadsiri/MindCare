@@ -1,2 +1,2 @@
-# MindCare.github.io
+# MindCare
 Gestor de citas psicologicas online para estudiantes.
